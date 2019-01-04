@@ -1,3 +1,8 @@
+## TieDyeKatz's Website
+
+### This contains info about my YouTube channel, [my Twitch channel](twitch.tv/tiedyekatz), links, and more.
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TieDyeKatz/tiedyekatz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
