@@ -2,10 +2,10 @@
 
 ### Just news on games and my channels.
 ---
-#### [Twitch](twitchnews.md)
+#### [Twitch](twitchnews.html)
 
-#### [Youtube](ytnews.nd)
+#### [Youtube](ytnews.html)
 
-#### [Overwatch](overwatchnews.md)
+#### [Overwatch](overwatchnews.html)
 
-#### [Minecraft](mcnews.md)
+#### [Minecraft](mcnews.html)
