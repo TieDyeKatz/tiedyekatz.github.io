@@ -1,6 +1,6 @@
 ## TieDyeKatz's Website
 
-### This contains info about my YouTube channel, [my Twitch channel](twitch.tv/tiedyekatz), [news](news.html), and more.
+### This contains info about my YouTube channel, [my Twitch channel](https://twitch.tv/tiedyekatz), [news](news.html) about me and games I play, and more.
 ---
 
 ## Welcome to GitHub Pages
